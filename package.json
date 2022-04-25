@@ -1,14 +1,14 @@
 {
-  "name": "@nguyenphu27/sdk",
+  "name": "@hexafinity/swap-sdk",
   "license": "MIT",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "🛠 An SDK for building applications on top of Pancakeswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/nguyenphu27/pancake-swap-sdk-testnett",
+  "repository": "https://github.com/Hexafinity/Swap-sdx",
   "keywords": [
     "pancakeswap",
     "bsc"
